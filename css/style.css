@@ -7,3 +7,9 @@
       background-color: gray;
       color: blue
     }
+
+.myClass {
+  background-color:blue;
+  border:red 50px solid;
+  font-size:50pt;
+}

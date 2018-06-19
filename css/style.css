@@ -1,1 +1,22 @@
-/* add CSS class and element and selectors here */
+  body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+    
+    .myClass {
+      background-color: gray;
+      color: blue
+    }
+
+.myClass {
+  background-color:orange;
+  border:yellow 50px solid;
+  font-size:50pt;
+  text-align:center;
+  cursor:pointer;
+}
+
+#rosyClass {
+  color:orange;
+  
+}
